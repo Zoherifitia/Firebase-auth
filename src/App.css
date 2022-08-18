@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(20,20,20);
+
+}
+/*navbar*/
+.Navbar{
+  background-color: rgb(20,20,20);
+  color: whitesmoke;
+  text-align: center;
+  font-family: Roboto;
+  font-size: xx-large;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 40px;
+}
+
+/*body*/
+.Container{
+  margin-left: 30%;
+  width: 500px;
+  border: solid 0;
+  text-align: center;
+  padding: 4% 0%;
+  background-color: rgb(10,10,20);
+  color: whitesmoke;
+}
+.Container input{
+  background-color: rgb(10,10,20);
+  border: solid 1px white;
+  border-radius: 10px;
+  width: 85%;
+  height: 40px;
+  margin: 10px;
+  padding: 4px ;
+  color: white;
+}
+.Container input:hover{
+  width: 87%;
+  height: 45px;
+}
+
+.Container Button{
+  background-color: white;
+  border: solid 1px white;
+  border-radius: 10px;
+  width: 87%;
+  height: 45px;
+  margin: 10px;
+  padding: 4px ;
+  color: black;
+
+}
+.Container Button:hover{
+  background-color: rgb(0,0,0,0.200);
+  color: whitesmoke;
+  width: 89%;
+  height: 50px;
+}
