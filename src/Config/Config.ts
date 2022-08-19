@@ -4,12 +4,13 @@ import 'firebase/compat/firestore';
 
 //Configuration du connection typeScript avec firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDqZkcA-cCmVsPU2iukuoa1g_pekoyBBgE",
-  authDomain: "auth-el1p2.firebaseapp.com",
-  projectId: "auth-el1p2",
-  storageBucket: "auth-el1p2.appspot.com",
-  messagingSenderId: "818724848212",
-  appId: "1:818724848212:web:6e4448886c539c8bcba3c1"
+  apiKey: "AIzaSyBYv9TqV5ROoBf_kedKMIgz0VbDPAuL1-w",
+  authDomain: "authentification-61000.firebaseapp.com",
+  projectId: "authentification-61000",
+  storageBucket: "authentification-61000.appspot.com",
+  messagingSenderId: "291421360257",
+  appId: "1:291421360257:web:cf4508e6643a6da7903d80",
+  measurementId: "G-N96SPRJZZJ"
 };
 
 //Initialiser et exportet la constante auth pour qu'elle soit visible dans
